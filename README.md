@@ -16,4 +16,3 @@ Neste curso, junto com o professor, realizei:
 
 Neste curso, foram apresentados 3 modelos: KNN, Árvore de Decisão e Modelo Dummy.
 
-Logo mais irei realizar um pequeno projeto a fim de consolidar meus conhecimentos 😊
